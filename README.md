@@ -21,7 +21,7 @@ I skonfigurować zmienną TOKEN w pliku `Config.py`.
 
 Następnie uruchamiamy poleceniem:
 ```
-python3 PustePytania
+python3 .
 ```
 
 Domyślnie w folderze `out` zapiszą się pliki z testami!
@@ -65,7 +65,7 @@ Możesz je wykorzystywać osobno, albo połączyć w jedną wspólną bazę pole
 - Jeżeli pytanie jest uznane za niepewne (odpowiedź "? ? ?") to w pliku testownika, żadna odpowiedź nie jest poprawna;
 
 ### Standardy plików wyjściowych
-[Struktura pliku wyjściowego](DOCS.md#Plik-wyjsciowy)
+[Struktura pliku wyjściowego](doc/DOCS.md#Plik-wyjsciowy)
 
 ## Autor
 Górka Mateusz (@goorkmateusz)
